@@ -24,7 +24,7 @@ namespace TopSwagCode.CI.AWS.Tests
             var result = _valuesService.SumOfValues(values);
 
             // Assert
-            Assert.Equal(3, result);
+            Assert.Equal(6, result);
         }
 
         [Fact]
