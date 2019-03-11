@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopSwagCode.CI.AWS.WebAPI", "TopSwagCode.CI.AWS.WebAPI\TopSwagCode.CI.AWS.WebAPI.csproj", "{9E3A2AD6-22F2-48B3-9492-DBB890DAE54D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopSwagCode.CI.AWS.Tests", "TopSwagCode.CI.AWS.Tests\TopSwagCode.CI.AWS.Tests.csproj", "{D3D65E8A-82DA-49FC-A350-26E99C34FE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3A2AD6-22F2-48B3-9492-DBB890DAE54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3A2AD6-22F2-48B3-9492-DBB890DAE54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3A2AD6-22F2-48B3-9492-DBB890DAE54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3A2AD6-22F2-48B3-9492-DBB890DAE54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D65E8A-82DA-49FC-A350-26E99C34FE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D65E8A-82DA-49FC-A350-26E99C34FE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D65E8A-82DA-49FC-A350-26E99C34FE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D65E8A-82DA-49FC-A350-26E99C34FE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92D8DBF0-B712-46B5-A614-F268B0F45A83}
+	EndGlobalSection
+EndGlobal
